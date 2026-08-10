@@ -45,3 +45,12 @@ console.log(" ")
 console.log("Third Lesson: Constants")
 const occupation = "Quality & Training Specialist - Customer Service"
 console.log (occupation)
+
+//4. Data Types
+console.log("Fourth Lesson: Data Types")
+var Firstname = "Ali" //String
+var age = 29 //Number
+var IsMarried = true //boolean
+var children = null //null
+var address //undefined
+ 
