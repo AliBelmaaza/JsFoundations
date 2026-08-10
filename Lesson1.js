@@ -3,8 +3,7 @@ console.log("First Lesson: console.log")
 console.log("Hello World!");
 
 
-console.log(" ")
-
+console.log( )
 
 //2. Variables
 console.log("Second Lesson: Variables")
@@ -28,8 +27,7 @@ var Description =  +age + " ," + sex + " ," + CurrentJob
 console.log (Description)
 
 
-console.log(" ")
-
+console.log( )
 
 var number1, number2, number3
 number1 = "10"
@@ -38,8 +36,7 @@ number3 = number1 + number2
 console.log (number3)
 number3 = number1 - number2 
 console.log (number3)
-console.log(" ")
-
+console.log( )
 
 //3. constants
 console.log("Third Lesson: Constants")
@@ -47,8 +44,7 @@ const occupation = "Quality & Training Specialist - Customer Service"
 console.log (occupation)
 
 
-console.log(" ")
-
+console.log( )
 
 //4. Data Types
 console.log("Fourth Lesson: Data Types")
@@ -64,4 +60,4 @@ console.log("Children: " + children + " // " + "Null = no value")
 console.log("Address: " + address + " // " + "Undefined = not assigned a value")
 
 
-console.log(" ")
+console.log( )
