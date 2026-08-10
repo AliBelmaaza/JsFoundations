@@ -46,11 +46,22 @@ console.log("Third Lesson: Constants")
 const occupation = "Quality & Training Specialist - Customer Service"
 console.log (occupation)
 
+
+console.log(" ")
+
+
 //4. Data Types
 console.log("Fourth Lesson: Data Types")
-var Firstname = "Ali" //String
+var Firstname = "Ali" //String 
 var age = 29 //Number
 var IsMarried = true //boolean
 var children = null //null
 var address //undefined
- 
+console.log("Firstname: " + Firstname + " // " + "String = text")
+console.log("Age: " + age + " // " + "Number = numeric value")
+console.log("Is Married: " + IsMarried + " // " + "Boolean = true or false")
+console.log("Children: " + children + " // " + "Null = no value")
+console.log("Address: " + address + " // " + "Undefined = not assigned a value")
+
+
+console.log(" ")
